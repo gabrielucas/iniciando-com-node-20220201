@@ -1,0 +1,30 @@
+POST http://localhost:4002/product
+content-type: application/json
+
+{
+    "name": "Marcarrão",
+    "price": 7.48
+
+}
+
+###
+
+GET http://localhost:4002/products
+
+###
+
+GET http://localhost:4002/products/9178bb47-36b3-4c65-8e4a-c80c2ef7951c
+
+###
+
+PUT http://localhost:4002/products/9178bb47-36b3-4c65-8e4a-c80c2ef7951c
+content-type: application/json
+
+{
+    "name": "Feijão",
+    "price": 8.90
+}
+
+###
+
+DELETE http://localhost:4002/products/9178bb47-36b3-4c65-8e4a-c80c2ef7951c

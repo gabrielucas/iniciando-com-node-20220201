@@ -1,0 +1,16 @@
+{
+  "name": "iniciando-com-node-20220201",
+  "version": "1.0.0",
+  "description": "Consolidando conhecimentos-base em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Lucas Viana",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}

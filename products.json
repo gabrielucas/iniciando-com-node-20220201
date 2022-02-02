@@ -1,0 +1,22 @@
+[
+  {
+    "id": "e85ac451-199a-449a-b8dc-13eff210b9fd",
+    "name": "Milho",
+    "price": 4.78
+  },
+  {
+    "id": "b73b2771-455e-416b-b0aa-9f3e8de28583",
+    "name": "Ervilha",
+    "price": 3.48
+  },
+  {
+    "id": "dcf9d924-4251-4af4-9d80-586c7b658a58",
+    "name": "Arroz",
+    "price": 15.79
+  },
+  {
+    "id": "64d4d61a-1942-453b-95d7-0a0f1b9fc5c5",
+    "name": "Marcarrão",
+    "price": 7.48
+  }
+]
